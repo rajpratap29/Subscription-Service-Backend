@@ -1,4 +1,3 @@
-import { password } from "bun";
 import mongoose from "mongoose";
 
 const userSchema = new mongoose.Schema(
